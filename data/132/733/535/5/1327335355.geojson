@@ -1,0 +1,65 @@
+{
+  "id": 1327335355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74792,12.0413,-61.74792,12.0413",
+    "geom:latitude":12.0413,
+    "geom:longitude":-61.74792,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Belmont",
+    "gn:country_code":"GD",
+    "gn:dem":18,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580428,
+    "gn:latitude":12.0413,
+    "gn:longitude":-61.74792,
+    "gn:modification_date":"2013-06-04",
+    "gn:name":"Belmont",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580428
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"69fa27574606dcf9b9cbc42fcbafa5c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1327335355,
+            "region_id":85671617
+        }
+    ],
+    "wof:id":1327335355,
+    "wof:lastmodified":1536820054,
+    "wof:name":"Belmont",
+    "wof:parent_id":85671617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74791999999999,
+    12.0413,
+    -61.74791999999999,
+    12.0413
+],
+  "geometry": {"coordinates":[-61.74791999999999,12.0413],"type":"Point"}
+}

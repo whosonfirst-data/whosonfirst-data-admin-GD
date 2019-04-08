@@ -1,0 +1,65 @@
+{
+  "id": 1310406753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68333,12.13333,-61.68333,12.13333",
+    "geom:latitude":12.13333,
+    "geom:longitude":-61.68333,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Paradise",
+    "gn:country_code":"GD",
+    "gn:dem":294,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580011,
+    "gn:latitude":12.13333,
+    "gn:longitude":-61.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Paradise",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580011
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"8b574ce865eaf991fb634f33f5749426",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1310406753,
+            "region_id":85671625
+        }
+    ],
+    "wof:id":1310406753,
+    "wof:lastmodified":1537056989,
+    "wof:name":"Paradise",
+    "wof:parent_id":85671625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68333000000001,
+    12.13333,
+    -61.68333000000001,
+    12.13333
+],
+  "geometry": {"coordinates":[-61.68333000000001,12.13333],"type":"Point"}
+}

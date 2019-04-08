@@ -1,0 +1,66 @@
+{
+  "id": 1243472119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66029,12.13475,-61.66029,12.13475",
+    "geom:latitude":12.13475,
+    "geom:longitude":-61.66029,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Clabony",
+    "gn:country_code":"GD",
+    "gn:dem":237,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580363,
+    "gn:latitude":12.13475,
+    "gn:longitude":-61.66029,
+    "gn:modification_date":"2015-03-26",
+    "gn:name":"Clabony",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580363,
+        "wk:page":"Clabony"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"38071a656693187850325b25a9f6624d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1243472119,
+            "region_id":85671609
+        }
+    ],
+    "wof:id":1243472119,
+    "wof:lastmodified":1537562987,
+    "wof:name":"Clabony",
+    "wof:parent_id":85671609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66029,
+    12.13475,
+    -61.66029,
+    12.13475
+],
+  "geometry": {"coordinates":[-61.66029,12.13475],"type":"Point"}
+}

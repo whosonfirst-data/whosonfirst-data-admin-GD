@@ -1,0 +1,65 @@
+{
+  "id": 1242878239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.62809,12.10498,-61.62809,12.10498",
+    "geom:latitude":12.10498,
+    "geom:longitude":-61.62809,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Marquis",
+    "gn:country_code":"GD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580112,
+    "gn:latitude":12.10498,
+    "gn:longitude":-61.62809,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Marquis",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580112
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"eb01169c917986f8f15d66af537a5559",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1242878239,
+            "region_id":85671609
+        }
+    ],
+    "wof:id":1242878239,
+    "wof:lastmodified":1536628906,
+    "wof:name":"Marquis",
+    "wof:parent_id":85671609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.62809,
+    12.10498,
+    -61.62809,
+    12.10498
+],
+  "geometry": {"coordinates":[-61.62809,12.10498],"type":"Point"}
+}

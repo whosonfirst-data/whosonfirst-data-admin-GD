@@ -1,0 +1,65 @@
+{
+  "id": 1293301721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66667,12.05,-61.66667,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-61.66667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Apres Tout",
+    "gn:country_code":"GD",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580460,
+    "gn:latitude":12.05,
+    "gn:longitude":-61.66667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Apr\u00e8s Tout",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671613
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580460
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"fa39ea961b6a8d4236e5f2ea1965055b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1293301721,
+            "region_id":85671613
+        }
+    ],
+    "wof:id":1293301721,
+    "wof:lastmodified":1537052497,
+    "wof:name":"Apres Tout",
+    "wof:parent_id":85671613,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66667,
+    12.05,
+    -61.66667,
+    12.05
+],
+  "geometry": {"coordinates":[-61.66667,12.05],"type":"Point"}
+}

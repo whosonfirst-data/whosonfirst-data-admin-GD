@@ -1,0 +1,70 @@
+{
+  "id": 1310715523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.63333,12.1,-61.63333,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-61.63333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"La Digue",
+    "gn:cc2":"GD",
+    "gn:country_code":"GD",
+    "gn:dem":78,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580195,
+    "gn:latitude":12.1,
+    "gn:longitude":-61.63333,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"La Digue",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "La Didue",
+        "La Digue"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580195
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"2bfdfb67b0a417c059f35c5494d832f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1310715523,
+            "region_id":85671609
+        }
+    ],
+    "wof:id":1310715523,
+    "wof:lastmodified":1537623018,
+    "wof:name":"La Digue",
+    "wof:parent_id":85671609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.63333000000001,
+    12.1,
+    -61.63333000000001,
+    12.1
+],
+  "geometry": {"coordinates":[-61.63333000000001,12.1],"type":"Point"}
+}

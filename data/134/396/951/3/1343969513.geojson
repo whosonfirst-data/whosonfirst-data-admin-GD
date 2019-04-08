@@ -1,0 +1,65 @@
+{
+  "id": 1343969513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.76851,12.00409,-61.76851,12.00409",
+    "geom:latitude":12.00409,
+    "geom:longitude":-61.76851,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"True Blue",
+    "gn:country_code":"GD",
+    "gn:dem":14,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579849,
+    "gn:latitude":12.00409,
+    "gn:longitude":-61.76851,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"True Blue",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579849
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"919b331232e7b3d70f7d45e3adb61abb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1343969513,
+            "region_id":85671617
+        }
+    ],
+    "wof:id":1343969513,
+    "wof:lastmodified":1537006165,
+    "wof:name":"True Blue",
+    "wof:parent_id":85671617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.76851,
+    12.00409,
+    -61.76851,
+    12.00409
+],
+  "geometry": {"coordinates":[-61.76851,12.00409],"type":"Point"}
+}

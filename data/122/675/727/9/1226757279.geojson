@@ -1,0 +1,71 @@
+{
+  "id": 1226757279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61667,12.15,-61.61667,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-61.61667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Upper Pearls",
+    "gn:cc2":"GD",
+    "gn:country_code":"GD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579836,
+    "gn:latitude":12.15,
+    "gn:longitude":-61.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Upper Pearls",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Upper Pearl",
+        "Upper Pearls"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579836,
+        "wk:page":"Upper_Pearls"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"5961ba85e6ed0357e125f53a17a21aea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1226757279,
+            "region_id":85671609
+        }
+    ],
+    "wof:id":1226757279,
+    "wof:lastmodified":1537623017,
+    "wof:name":"Upper Pearls",
+    "wof:parent_id":85671609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61666999999999,
+    12.15,
+    -61.61666999999999,
+    12.15
+],
+  "geometry": {"coordinates":[-61.61666999999999,12.15],"type":"Point"}
+}

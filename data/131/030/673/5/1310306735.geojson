@@ -1,0 +1,65 @@
+{
+  "id": 1310306735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.71667,12.08333,-61.71667,12.08333",
+    "geom:latitude":12.08333,
+    "geom:longitude":-61.71667,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Granton",
+    "gn:country_code":"GD",
+    "gn:dem":230,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580254,
+    "gn:latitude":12.08333,
+    "gn:longitude":-61.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Granton",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580254
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"3c4a11cc04a231c568258e987a4f315a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1310306735,
+            "region_id":85671617
+        }
+    ],
+    "wof:id":1310306735,
+    "wof:lastmodified":1536706393,
+    "wof:name":"Granton",
+    "wof:parent_id":85671617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.71666999999999,
+    12.08333,
+    -61.71666999999999,
+    12.08333
+],
+  "geometry": {"coordinates":[-61.71666999999999,12.08333],"type":"Point"}
+}

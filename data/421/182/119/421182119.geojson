@@ -1,0 +1,71 @@
+{
+  "id": 421182119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-61.729431,12.087919,-61.729431,12.087919",
+    "geom:latitude":12.087919,
+    "geom:longitude":-61.729431,
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Mount Moritz Land Settlement",
+    "qs:name_adm0":"Grenada",
+    "qs:name_adm1":"Saint George",
+    "qs:photos":623,
+    "qs:photos_1k":126,
+    "qs:photos_9k":3,
+    "qs:photos_9r":5,
+    "qs:photos_all":623,
+    "qs:photos_sr":8,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":889701,
+    "qs:woe_adm0":23424826,
+    "qs:woe_id":80375,
+    "src:geom":"quattroshapes",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":80375,
+        "qs:id":889701
+    },
+    "wof:country":"GD",
+    "wof:created":1459009319,
+    "wof:geomhash":"a91f4cf73b12690c895ae983aa342e46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":421182119,
+            "region_id":85671617
+        }
+    ],
+    "wof:id":421182119,
+    "wof:lastmodified":1466635854,
+    "wof:name":"Mount Moritz Land Settlement",
+    "wof:parent_id":85671617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.729431,
+    12.087919,
+    -61.729431,
+    12.087919
+],
+  "geometry": {"coordinates":[-61.729431,12.087919],"type":"Point"}
+}

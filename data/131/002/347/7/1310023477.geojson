@@ -1,0 +1,65 @@
+{
+  "id": 1310023477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.68333,12.1,-61.68333,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-61.68333,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Saint Cyr",
+    "gn:country_code":"GD",
+    "gn:dem":447,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579934,
+    "gn:latitude":12.1,
+    "gn:longitude":-61.68333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Saint Cyr",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579934
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"8b4f7ff0e2dc2cadd517d3b0448b8f89",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1310023477,
+            "region_id":85671609
+        }
+    ],
+    "wof:id":1310023477,
+    "wof:lastmodified":1536615018,
+    "wof:name":"Saint Cyr",
+    "wof:parent_id":85671609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68333000000001,
+    12.1,
+    -61.68333000000001,
+    12.1
+],
+  "geometry": {"coordinates":[-61.68333000000001,12.1],"type":"Point"}
+}

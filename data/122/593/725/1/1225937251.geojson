@@ -1,0 +1,65 @@
+{
+  "id": 1225937251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.63333,12.2,-61.63333,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":-61.63333,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"La Mode",
+    "gn:country_code":"GD",
+    "gn:dem":147,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580187,
+    "gn:latitude":12.2,
+    "gn:longitude":-61.63333,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"La Mode",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580187
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"df65228ae6eda94fc221ef6bc9567c64",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1225937251,
+            "region_id":85671631
+        }
+    ],
+    "wof:id":1225937251,
+    "wof:lastmodified":1536880962,
+    "wof:name":"La Mode",
+    "wof:parent_id":85671631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.63333000000001,
+    12.2,
+    -61.63333000000001,
+    12.2
+],
+  "geometry": {"coordinates":[-61.63333000000001,12.2],"type":"Point"}
+}

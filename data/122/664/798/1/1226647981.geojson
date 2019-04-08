@@ -1,0 +1,65 @@
+{
+  "id": 1226647981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.75634,11.99848,-61.75634,11.99848",
+    "geom:latitude":11.99848,
+    "geom:longitude":-61.75634,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lance aux Epines",
+    "gn:country_code":"GD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580186,
+    "gn:latitude":11.99848,
+    "gn:longitude":-61.75634,
+    "gn:modification_date":"2018-03-07",
+    "gn:name":"Lance aux \u00c9pines",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "L'Anse Aux Epines"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580186,
+        "wk:page":"L%27Anse_Aux_Epines"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"6b5f0d05a30c379f9ba12b3734c4a403",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1226647981,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1226647981,
+    "wof:lastmodified":1537623018,
+    "wof:name":"Lance aux Epines",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.75634,
+    11.99848,
+    -61.75634,
+    11.99848
+],
+  "geometry": {"coordinates":[-61.75634,11.99848],"type":"Point"}
+}

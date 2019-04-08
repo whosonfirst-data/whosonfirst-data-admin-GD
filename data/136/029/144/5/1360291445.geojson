@@ -1,0 +1,65 @@
+{
+  "id": 1360291445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.71667,12.11667,-61.71667,12.11667",
+    "geom:latitude":12.11667,
+    "geom:longitude":-61.71667,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Mon Plaisir",
+    "gn:country_code":"GD",
+    "gn:dem":355,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580091,
+    "gn:latitude":12.11667,
+    "gn:longitude":-61.71667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Mon Plaisir",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671625
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580091
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"c688f7e2e86e1edb6538bde3a2893d1a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1360291445,
+            "region_id":85671625
+        }
+    ],
+    "wof:id":1360291445,
+    "wof:lastmodified":1536647502,
+    "wof:name":"Mon Plaisir",
+    "wof:parent_id":85671625,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.71666999999999,
+    12.11667,
+    -61.71666999999999,
+    12.11667
+],
+  "geometry": {"coordinates":[-61.71666999999999,12.11667],"type":"Point"}
+}

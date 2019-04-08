@@ -1,0 +1,66 @@
+{
+  "id": 1209529777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66667,12.1,-61.66667,12.1",
+    "geom:latitude":12.1,
+    "geom:longitude":-61.66667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Adelphi",
+    "gn:cc2":"GD",
+    "gn:country_code":"GD",
+    "gn:dem":402,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580468,
+    "gn:latitude":12.1,
+    "gn:longitude":-61.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Adelphi",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Adelphia",
+        "Adelphi"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580468
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"9b7d5fa6c9536823f09d5130d23cf797",
+    "wof:hierarchy":[
+        {
+            "country_id":85632335,
+            "locality_id":1209529777
+        }
+    ],
+    "wof:id":1209529777,
+    "wof:lastmodified":1537623019,
+    "wof:name":"Adelphi",
+    "wof:parent_id":85632335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66667,
+    12.1,
+    -61.66667,
+    12.1
+],
+  "geometry": {"coordinates":[-61.66667,12.1],"type":"Point"}
+}

@@ -1,0 +1,62 @@
+{
+  "id": 1310508879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7555,11.99365,-61.7555,11.99365",
+    "geom:latitude":11.99365,
+    "geom:longitude":-61.7555,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Amber Belair",
+    "gn:country_code":"GD",
+    "gn:dem":13,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580466,
+    "gn:latitude":11.99365,
+    "gn:longitude":-61.7555,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Amber Belair",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580466,
+        "wk:page":"Amber_Belair"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"9092990a279d6bd8ffbd93c23f3ebbd6",
+    "wof:hierarchy":[
+        {
+            "continent_id":-1,
+            "country_id":-1,
+            "locality_id":1310508879,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310508879,
+    "wof:lastmodified":1537562987,
+    "wof:name":"Amber Belair",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7555,
+    11.99365,
+    -61.7555,
+    11.99365
+],
+  "geometry": {"coordinates":[-61.7555,11.99365],"type":"Point"}
+}

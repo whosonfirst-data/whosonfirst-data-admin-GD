@@ -1,0 +1,65 @@
+{
+  "id": 1310319341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.62238,12.07883,-61.62238,12.07883",
+    "geom:latitude":12.07883,
+    "geom:longitude":-61.62238,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Hope Bacolet",
+    "gn:country_code":"GD",
+    "gn:dem":58,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580212,
+    "gn:latitude":12.07883,
+    "gn:longitude":-61.62238,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Hope Bacolet",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580212
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"1c5eba49e1b8767c2f5b7ebe5bcb2e4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1310319341,
+            "region_id":85671609
+        }
+    ],
+    "wof:id":1310319341,
+    "wof:lastmodified":1536687936,
+    "wof:name":"Hope Bacolet",
+    "wof:parent_id":85671609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.62238000000001,
+    12.07883,
+    -61.62238000000001,
+    12.07883
+],
+  "geometry": {"coordinates":[-61.62238000000001,12.07883],"type":"Point"}
+}

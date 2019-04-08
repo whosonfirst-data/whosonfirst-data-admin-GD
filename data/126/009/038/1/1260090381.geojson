@@ -1,0 +1,65 @@
+{
+  "id": 1260090381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48422,12.46936,-61.48422,12.46936",
+    "geom:latitude":12.46936,
+    "geom:longitude":-61.48422,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"L'Esterre",
+    "gn:country_code":"GD",
+    "gn:dem":23,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580166,
+    "gn:latitude":12.46936,
+    "gn:longitude":-61.48422,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"L\u2019Esterre",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580166
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"0164d252f3d805be46770c4000a18c23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1260090381,
+            "region_id":85671605
+        }
+    ],
+    "wof:id":1260090381,
+    "wof:lastmodified":1536977408,
+    "wof:name":"L'Esterre",
+    "wof:parent_id":85671605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48421999999999,
+    12.46936,
+    -61.48421999999999,
+    12.46936
+],
+  "geometry": {"coordinates":[-61.48421999999999,12.46936],"type":"Point"}
+}

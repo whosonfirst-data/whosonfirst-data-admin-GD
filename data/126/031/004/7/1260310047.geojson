@@ -1,0 +1,65 @@
+{
+  "id": 1260310047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.74537,12.1322,-61.74537,12.1322",
+    "geom:latitude":12.1322,
+    "geom:longitude":-61.74537,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Grand Roy",
+    "gn:country_code":"GD",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580257,
+    "gn:latitude":12.1322,
+    "gn:longitude":-61.74537,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Grand Roy",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580257,
+        "wk:page":"Grand_Roy"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"8e980437aa65de242b7c89299deb08b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1260310047,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1260310047,
+    "wof:lastmodified":1537562987,
+    "wof:name":"Grand Roy",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.74537,
+    12.1322,
+    -61.74537,
+    12.1322
+],
+  "geometry": {"coordinates":[-61.74537,12.1322],"type":"Point"}
+}

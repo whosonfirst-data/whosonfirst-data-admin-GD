@@ -1,0 +1,67 @@
+{
+  "id": 1209429329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61667,12.15,-61.61667,12.15",
+    "geom:latitude":12.15,
+    "geom:longitude":-61.61667,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Conference",
+    "gn:cc2":"GD",
+    "gn:country_code":"GD",
+    "gn:dem":22,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580354,
+    "gn:latitude":12.15,
+    "gn:longitude":-61.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Conference",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Upper Conference",
+        "Conference"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580354,
+        "wk:page":"Upper_Conference"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"5961ba85e6ed0357e125f53a17a21aea",
+    "wof:hierarchy":[
+        {
+            "country_id":85632335,
+            "locality_id":1209429329
+        }
+    ],
+    "wof:id":1209429329,
+    "wof:lastmodified":1537623019,
+    "wof:name":"Conference",
+    "wof:parent_id":85632335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61666999999999,
+    12.15,
+    -61.61666999999999,
+    12.15
+],
+  "geometry": {"coordinates":[-61.61666999999999,12.15],"type":"Point"}
+}

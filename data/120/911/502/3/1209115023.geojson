@@ -1,0 +1,66 @@
+{
+  "id": 1209115023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.66667,12.05,-61.66667,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-61.66667,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Thebaide",
+    "gn:cc2":"GD",
+    "gn:country_code":"GD",
+    "gn:dem":130,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579860,
+    "gn:latitude":12.05,
+    "gn:longitude":-61.66667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Thebaide",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Thebaid",
+        "Thebaide"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579860
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"fa39ea961b6a8d4236e5f2ea1965055b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632335,
+            "locality_id":1209115023
+        }
+    ],
+    "wof:id":1209115023,
+    "wof:lastmodified":1537623017,
+    "wof:name":"Thebaide",
+    "wof:parent_id":85632335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.66667,
+    12.05,
+    -61.66667,
+    12.05
+],
+  "geometry": {"coordinates":[-61.66667,12.05],"type":"Point"}
+}

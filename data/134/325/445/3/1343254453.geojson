@@ -1,0 +1,65 @@
+{
+  "id": 1343254453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.65015,12.22015,-61.65015,12.22015",
+    "geom:latitude":12.22015,
+    "geom:longitude":-61.65015,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Panorama",
+    "gn:country_code":"GD",
+    "gn:dem":67,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580015,
+    "gn:latitude":12.22015,
+    "gn:longitude":-61.65015,
+    "gn:modification_date":"2013-11-21",
+    "gn:name":"Panorama",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580015
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"909672e149d845a3a959e5a3db02768d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1343254453,
+            "region_id":85671631
+        }
+    ],
+    "wof:id":1343254453,
+    "wof:lastmodified":1537041839,
+    "wof:name":"Panorama",
+    "wof:parent_id":85671631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.65015,
+    12.22015,
+    -61.65015,
+    12.22015
+],
+  "geometry": {"coordinates":[-61.65015,12.22015],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293603911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.4348,12.47427,-61.4348,12.47427",
+    "geom:latitude":12.47427,
+    "geom:longitude":-61.4348,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Grand Bay",
+    "gn:country_code":"GD",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580266,
+    "gn:latitude":12.47427,
+    "gn:longitude":-61.4348,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Grand Bay",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580266
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"7318199bc21bcdb8cbe7ec4ac6156ac5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1293603911,
+            "region_id":85671605
+        }
+    ],
+    "wof:id":1293603911,
+    "wof:lastmodified":1536616990,
+    "wof:name":"Grand Bay",
+    "wof:parent_id":85671605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.4348,
+    12.47427,
+    -61.4348,
+    12.47427
+],
+  "geometry": {"coordinates":[-61.4348,12.47427],"type":"Point"}
+}

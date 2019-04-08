@@ -1,0 +1,309 @@
+{
+  "id": 85671631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003681,
+    "geom:area_square_m":44480254.9336,
+    "geom:bbox":"-61.6821338405,12.1766910394,-61.5804744126,12.3153750676",
+    "geom:latitude":12.215762,
+    "geom:longitude":-61.634546,
+    "gn:population":10533,
+    "iso:country":"GD",
+    "label:eng_x_preferred_longname":[
+        "Saint Patrick Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":12.21039,
+    "lbl:longitude":-61.637424,
+    "mps:latitude":12.21039,
+    "mps:longitude":-61.637424,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0633 \u0628\u0627\u062a\u0631\u064a\u0643"
+    ],
+    "name:baq_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u09a4 \u09aa\u09cd\u09af\u09be\u099f\u09cd\u09b0\u09bf\u0995 \u09aa\u09be\u09b0\u09bf\u09b6"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5e15\u7279\u91cc\u514b\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Patrick Parish"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03c4\u03c1\u03af\u03ba\u03b9\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:eng_x_variant":[
+        "St Patrick",
+        "St. Patrick",
+        "Saint Patrick Parish"
+    ],
+    "name:epo_x_preferred":[
+        "Paroko Sankta Patriko"
+    ],
+    "name:eus_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:fra_x_preferred":[
+        "Paroisse de Saint Patrick"
+    ],
+    "name:fre_x_preferred":[
+        "Paroisse de Saint Patrick"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a0\u03b1\u03c4\u03c1\u03af\u03ba\u03b9\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aaa\u0ac7\u0a9f\u0acd\u0ab0\u0abf\u0a95 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092a\u0948\u091f\u094d\u0930\u093f\u0915 \u092a\u0948\u0930\u093f\u0936"
+    ],
+    "name:ind_x_preferred":[
+        "Paroki Saint Patrick"
+    ],
+    "name:ita_x_preferred":[
+        "Parrocchia di Saint Patrick"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30d1\u30c8\u30ea\u30c3\u30af\u90e1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0c9f\u0ccd\u0cb0\u0cbf\u0c95\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ud328\ud2b8\ub9ad \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentpatrika pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Patriko parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092a\u0945\u091f\u094d\u0930\u093f\u0915 \u092a\u0945\u0930\u0940\u0936"
+    ],
+    "name:may_x_preferred":[
+        "Saint Patrick Parish"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:por_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u0440\u0438\u0445\u043e\u0434 \u0421\u0435\u043d\u0442-\u041f\u0430\u0442\u0440\u0438\u043a"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db4\u0dd0\u0da7\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca \u0db4\u0dca\u200d\u0dbb\u0dcf\u0db1\u0dca\u0dad\u0dba"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Patrick"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Patrick"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0baa\u0bc7\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c02\u0c1f\u0c4d \u0c2a\u0c3e\u0c1f\u0c4d\u0c30\u0c3f\u0c15\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e15\u0e33\u0e1a\u0e25\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e41\u0e1e\u0e17\u0e23\u0e34\u0e04"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Patrick Parish"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u041f\u0430\u0442\u0440\u0456\u043a"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0679\u0631\u06a9 \u067e\u06cc\u0631\u0634\u060c \u06af\u0631\u06cc\u0646\u0627\u0688\u0627"
+    ],
+    "name:vie_x_preferred":[
+        "Gi\u00e1o x\u1ee9 Saint Patrick"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5e15\u7279\u91cc\u514b\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"GRD",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"GRD-5075",
+    "ne:adm1_code":"GRD-5075",
+    "ne:admin":"Grenada",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"GD.PA",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"5075",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"GJ06",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"Grenada",
+    "ne:gn_a1_code":"GD.06",
+    "ne:gn_id":"3579907",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Patrick",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"GJ06",
+    "ne:gns_id":"-1202250",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Patrick",
+    "ne:gns_region":"",
+    "ne:gu_a3":"GRD",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"GD-06",
+    "ne:iso_a2":"GD",
+    "ne:labelrank":"20",
+    "ne:latitude":"12.21470000000",
+    "ne:longitude":"-61.63420000000",
+    "ne:mapcolor13":6,
+    "ne:mapcolor9":3,
+    "ne:name":"Saint Patrick",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"GRD",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2345478,
+    "ne:woe_label":"Saint Patrick, GD, Grenada",
+    "ne:woe_name":"Saint Patrick",
+    "qs:a0":"Grenada",
+    "qs:a0_lc":"GD",
+    "qs:a1":"Saint Patrick",
+    "qs:a1_lc":"GRD-5075",
+    "qs:adm0":"Grenada",
+    "qs:adm0_a3":"GRD",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2001-05-05",
+    "statoids:area_km":"44",
+    "statoids:area_mi":"17",
+    "statoids:as_of_date":"2001-05-05",
+    "statoids:capital":"Sauteurs",
+    "statoids:country":"GD",
+    "statoids:gec":"GJ06",
+    "statoids:hasc":"GD.PA",
+    "statoids:iso":"06",
+    "statoids:name":"Saint Patrick",
+    "statoids:population":"10624",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "wd:wordcount":236,
+    "wof:belongsto":[
+        102191575,
+        85632335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"GJ06",
+        "gn:id":3579907,
+        "gp:id":2345478,
+        "hasc:id":"GD.PA",
+        "iso:id":"GD-06",
+        "qs:id":1083835,
+        "wd:id":"Q1476309",
+        "wk:page":"Saint Patrick Parish, Grenada"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"c6fd3c48ed9ca0a160396f1d90c898c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "region_id":85671631
+        }
+    ],
+    "wof:id":85671631,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814772,
+    "wof:name":"Saint Patrick",
+    "wof:parent_id":85632335,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":10624,
+    "wof:population_rank":6,
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:shortcode":"PA",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.68213384050432,
+    12.17669103936004,
+    -61.58047441256406,
+    12.31537506760532
+],
+  "geometry": {"coordinates":[[[[-61.60277259008291,12.18292877844044],[-61.6032218311226,12.17669103936004],[-61.63127453479188,12.17916486476673],[-61.65595003416672,12.17916486476673],[-61.65924010134955,12.19972778151197],[-61.66911030109947,12.2137105647908],[-61.68213384050432,12.22333308855127],[-61.67145748577428,12.23607005448946],[-61.65050208150581,12.23973216400822],[-61.6276749335513,12.23672109620168],[-61.60602779864394,12.22337474245046],[-61.60667883945683,12.22028229409267],[-61.6129451158244,12.21442291958215],[-61.60456295501632,12.19745514523879],[-61.60277259008291,12.18292877844044]]],[[[-61.58291581920963,12.30084869990765],[-61.58857174369098,12.28974030187351],[-61.59101315033655,12.29087962419533],[-61.59569251179994,12.29450104388809],[-61.60061601491714,12.29759349224594],[-61.59980221300168,12.29970937758577],[-61.59414628762102,12.30719635592715],[-61.59182695225201,12.31293366095974],[-61.58735104081785,12.31537506760532],[-61.58047441256406,12.31155019698406],[-61.58515377492671,12.30674876514342],[-61.58291581920963,12.30084869990765]]]],"type":"MultiPolygon"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 1243278591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48856,12.45157,-61.48856,12.45157",
+    "geom:latitude":12.45157,
+    "geom:longitude":-61.48856,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Hermitage",
+    "gn:country_code":"GD",
+    "gn:dem":24,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580219,
+    "gn:latitude":12.45157,
+    "gn:longitude":-61.48856,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Hermitage",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580219,
+        "wk:page":"Hermitage_%28Carriacou%29"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"b132fd5ca48c9667b8a5d27acddac166",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1243278591,
+            "region_id":85671605
+        }
+    ],
+    "wof:id":1243278591,
+    "wof:lastmodified":1537562987,
+    "wof:name":"Hermitage",
+    "wof:parent_id":85671605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48856,
+    12.45157,
+    -61.48856,
+    12.45157
+],
+  "geometry": {"coordinates":[-61.48856,12.45157],"type":"Point"}
+}

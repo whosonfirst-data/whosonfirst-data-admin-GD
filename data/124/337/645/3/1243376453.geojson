@@ -1,0 +1,65 @@
+{
+  "id": 1243376453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.7,12.03333,-61.7,12.03333",
+    "geom:latitude":12.03333,
+    "geom:longitude":-61.7,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Beaton",
+    "gn:country_code":"GD",
+    "gn:dem":114,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580444,
+    "gn:latitude":12.03333,
+    "gn:longitude":-61.7,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Beaton",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580444
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"7c843b8f62e857642b391b3c217aa3e1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1243376453,
+            "region_id":85671617
+        }
+    ],
+    "wof:id":1243376453,
+    "wof:lastmodified":1536906703,
+    "wof:name":"Beaton",
+    "wof:parent_id":85671617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.7,
+    12.03333,
+    -61.7,
+    12.03333
+],
+  "geometry": {"coordinates":[-61.7,12.03333],"type":"Point"}
+}

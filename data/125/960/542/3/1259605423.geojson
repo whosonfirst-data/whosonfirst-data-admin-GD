@@ -1,0 +1,65 @@
+{
+  "id": 1259605423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61667,12.2,-61.61667,12.2",
+    "geom:latitude":12.2,
+    "geom:longitude":-61.61667,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Rose Hill",
+    "gn:country_code":"GD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579943,
+    "gn:latitude":12.2,
+    "gn:longitude":-61.61667,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Rose Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671631
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579943
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"595112be66f25393c270fb187cbc0e77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1259605423,
+            "region_id":85671631
+        }
+    ],
+    "wof:id":1259605423,
+    "wof:lastmodified":1536683175,
+    "wof:name":"Rose Hill",
+    "wof:parent_id":85671631,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61666999999999,
+    12.2,
+    -61.61666999999999,
+    12.2
+],
+  "geometry": {"coordinates":[-61.61666999999999,12.2],"type":"Point"}
+}

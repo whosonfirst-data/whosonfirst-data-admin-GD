@@ -1,0 +1,66 @@
+{
+  "id": 1310511373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.61667,12.16667,-61.61667,12.16667",
+    "geom:latitude":12.16667,
+    "geom:longitude":-61.61667,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Tivoli",
+    "gn:country_code":"GD",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579854,
+    "gn:latitude":12.16667,
+    "gn:longitude":-61.61667,
+    "gn:modification_date":"2012-01-18",
+    "gn:name":"Tivoli",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671609
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579854,
+        "wk:page":"Tivoli%2C_Grenada"
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"be61f851331b78d4f85615e7602ccd62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1310511373,
+            "region_id":85671609
+        }
+    ],
+    "wof:id":1310511373,
+    "wof:lastmodified":1537562986,
+    "wof:name":"Tivoli",
+    "wof:parent_id":85671609,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.61666999999999,
+    12.16667,
+    -61.61666999999999,
+    12.16667
+],
+  "geometry": {"coordinates":[-61.61666999999999,12.16667],"type":"Point"}
+}

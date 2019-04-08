@@ -1,0 +1,82 @@
+{
+  "id": 421169441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-61.3939185,12.521049,-61.3939185,12.521049",
+    "geom:latitude":12.521049,
+    "geom:longitude":-61.393918,
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:deu_x_preferred":[
+        "Meldrum"
+    ],
+    "name:fra_x_preferred":[
+        "Meldrum"
+    ],
+    "name:ita_x_preferred":[
+        "Meldrum"
+    ],
+    "name:sco_x_preferred":[
+        "Meldrum"
+    ],
+    "qs:gn_country":null,
+    "qs:gn_fcode":null,
+    "qs:gn_id":0,
+    "qs:gn_pop":0,
+    "qs:name":"Meldrum",
+    "qs:name_adm0":"Grenada",
+    "qs:name_adm1":"Saint Patrick",
+    "qs:photos":432,
+    "qs:photos_1k":88,
+    "qs:photos_9k":2,
+    "qs:photos_9r":5,
+    "qs:photos_all":432,
+    "qs:photos_sr":6,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":235475,
+    "qs:woe_adm0":23424826,
+    "qs:woe_id":80347,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":447,
+    "wof:belongsto":[
+        85632335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":80347,
+        "qs:id":235475,
+        "wd:id":"Q370374"
+    },
+    "wof:country":"GD",
+    "wof:created":1459008810,
+    "wof:geomhash":"e89815ad7103ff71a862f1d61671e96b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632335,
+            "locality_id":421169441
+        }
+    ],
+    "wof:id":421169441,
+    "wof:lastmodified":1527716167,
+    "wof:name":"Meldrum",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.3939185,
+    12.521049,
+    -61.3939185,
+    12.521049
+],
+  "geometry": {"coordinates":[-61.3939185,12.521049],"type":"Point"}
+}

@@ -1,0 +1,61 @@
+{
+  "id": 1209222289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.75,12.05,-61.75,12.05",
+    "geom:latitude":12.05,
+    "geom:longitude":-61.75,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Sans Souci",
+    "gn:country_code":"GD",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579894,
+    "gn:latitude":12.05,
+    "gn:longitude":-61.75,
+    "gn:modification_date":"1993-12-23",
+    "gn:name":"Sans Souci",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579894
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"3695f1c6872468237411f8fe07f03276",
+    "wof:hierarchy":[
+        {
+            "country_id":85632335,
+            "locality_id":1209222289
+        }
+    ],
+    "wof:id":1209222289,
+    "wof:lastmodified":1536293921,
+    "wof:name":"Sans Souci",
+    "wof:parent_id":85632335,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.75,
+    12.05,
+    -61.75,
+    12.05
+],
+  "geometry": {"coordinates":[-61.75,12.05],"type":"Point"}
+}

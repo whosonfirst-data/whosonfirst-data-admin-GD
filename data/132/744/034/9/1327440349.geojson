@@ -1,0 +1,70 @@
+{
+  "id": 1327440349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.70076,12.00956,-61.70076,12.00956",
+    "geom:latitude":12.00956,
+    "geom:longitude":-61.70076,
+    "gn:admin1_code":"02",
+    "gn:asciiname":"Westerhall Point",
+    "gn:cc2":"GD",
+    "gn:country_code":"GD",
+    "gn:dem":40,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3579824,
+    "gn:latitude":12.00956,
+    "gn:longitude":-61.70076,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Westerhall Point",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Westerhall",
+        "Westerhall Point"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671617
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3579824
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"07eeaae52142b503bc31579200661bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1327440349,
+            "region_id":85671617
+        }
+    ],
+    "wof:id":1327440349,
+    "wof:lastmodified":1537623017,
+    "wof:name":"Westerhall Point",
+    "wof:parent_id":85671617,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.70076,
+    12.00956,
+    -61.70076,
+    12.00956
+],
+  "geometry": {"coordinates":[-61.70076,12.00956],"type":"Point"}
+}

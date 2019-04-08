@@ -1,0 +1,75 @@
+{
+  "id": 421187241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.48333,12.45,-61.48333,12.45",
+    "geom:latitude":12.45,
+    "geom:longitude":-61.48333,
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "qs:gn_country":"GD",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3580459,
+    "qs:gn_pop":0,
+    "qs:name":"Argyle",
+    "qs:name_adm0":"Grenada",
+    "qs:name_adm1":"Saint Patrick",
+    "qs:photos":279,
+    "qs:photos_1k":57,
+    "qs:photos_9k":1,
+    "qs:photos_9r":4,
+    "qs:photos_all":279,
+    "qs:photos_sr":5,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":1082603,
+    "qs:woe_adm0":23424826,
+    "qs:woe_id":80212,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":313,
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580459,
+        "gp:id":80212,
+        "qs:id":1082603
+    },
+    "wof:country":"GD",
+    "wof:created":1459009506,
+    "wof:geomhash":"8184d8dbbdf1bf076bb650e2619bf5c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":421187241,
+            "region_id":85671605
+        }
+    ],
+    "wof:id":421187241,
+    "wof:lastmodified":1527716249,
+    "wof:name":"Argyle",
+    "wof:parent_id":85671605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.48333,
+    12.45,
+    -61.48333,
+    12.45
+],
+  "geometry": {"coordinates":[-61.48333,12.45],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1276128553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-61.43469,12.47869,-61.43469,12.47869",
+    "geom:latitude":12.47869,
+    "geom:longitude":-61.43469,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Mount Pleasant",
+    "gn:country_code":"GD",
+    "gn:dem":19,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3580045,
+    "gn:latitude":12.47869,
+    "gn:longitude":-61.43469,
+    "gn:modification_date":"2016-10-26",
+    "gn:name":"Mount Pleasant",
+    "gn:population":0,
+    "gn:timezone":"America/Grenada",
+    "iso:country":"GD",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632335,
+        85671605
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3580045
+    },
+    "wof:country":"GD",
+    "wof:geomhash":"6b1c0a520613b435df68f11a376bb047",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632335,
+            "locality_id":1276128553,
+            "region_id":85671605
+        }
+    ],
+    "wof:id":1276128553,
+    "wof:lastmodified":1537050790,
+    "wof:name":"Mount Pleasant",
+    "wof:parent_id":85671605,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-gd",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -61.43469,
+    12.47869,
+    -61.43469,
+    12.47869
+],
+  "geometry": {"coordinates":[-61.43469,12.47869],"type":"Point"}
+}
