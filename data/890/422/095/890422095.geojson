@@ -18,6 +18,9 @@
     "name:bul_x_preferred":[
         "\u0413\u043e\u0443\u044f\u0432\u0435"
     ],
+    "name:ceb_x_preferred":[
+        "Gouyave"
+    ],
     "name:deu_x_preferred":[
         "Gouyave"
     ],
@@ -35,6 +38,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05d5\u05d9\u05d9\u05d1"
+    ],
+    "name:ita_x_preferred":[
+        "Gouyave"
     ],
     "name:jpn_x_preferred":[
         "\u30b0\u30e4\u30f4\u30a7"
@@ -100,7 +106,7 @@
         }
     ],
     "wof:id":890422095,
-    "wof:lastmodified":1561839514,
+    "wof:lastmodified":1563346788,
     "wof:name":"Gouyave",
     "wof:parent_id":85671625,
     "wof:placetype":"locality",
