@@ -147,6 +147,9 @@
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u0627\u06cc\u0646\u0688\u0631\u06cc\u0648 \u067e\u0631\u06cc\u0634\u060c \u06af\u0631\u06cc\u0646\u0627\u0688\u0627"
     ],
+    "name:urd_x_variant":[
+        "\u0633\u06cc\u0646\u0679 \u0627\u06cc\u0646\u0688\u0631\u06cc\u0648 \u067e\u0631\u06cc\u0634"
+    ],
     "name:vie_x_preferred":[
         "Gi\u00e1o x\u1ee9 Saint Andrew"
     ],
@@ -275,7 +278,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1561839513,
+    "wof:lastmodified":1563346742,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

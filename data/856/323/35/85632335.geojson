@@ -81,14 +81,14 @@
     "name:bel_x_preferred":[
         "\u0413\u0440\u044d\u043d\u0430\u0434\u0430"
     ],
-    "name:bel_x_variant":[
-        "\u0413\u0440\u044d\u043d\u0430\u0434\u0430"
-    ],
     "name:ben_x_preferred":[
         "\u0997\u09cd\u09b0\u09c7\u09a8\u09be\u09a1\u09be"
     ],
     "name:ben_x_variant":[
         "\u0997\u09cd\u09b0\u09be\u09a8\u09be\u09a1\u09be"
+    ],
+    "name:bho_x_preferred":[
+        "\u0917\u094d\u0930\u093f\u0928\u0947\u0926\u093e"
     ],
     "name:bod_x_preferred":[
         "\u0f42\u0f72\u0f0b\u0f62\u0f72\u0f0b\u0f53\u0f0b\u0f4c\u0f0d (\u0f62\u0f92\u0fb1\u0f63\u0f0b\u0f41\u0f56\u0f0d)"
@@ -153,6 +153,9 @@
     ],
     "name:dsb_x_preferred":[
         "Grenada"
+    ],
+    "name:dty_x_preferred":[
+        "\u0917\u094d\u0930\u093f\u0928\u093e\u0921\u093e"
     ],
     "name:ell_x_preferred":[
         "\u0393\u03c1\u03b5\u03bd\u03ac\u03b4\u03b1"
@@ -221,6 +224,9 @@
     "name:ful_x_preferred":[
         "Garnaad"
     ],
+    "name:gag_x_preferred":[
+        "Grenada"
+    ],
     "name:gla_x_preferred":[
         "Greanada"
     ],
@@ -242,6 +248,12 @@
     ],
     "name:gom_x_preferred":[
         "\u0917\u094d\u0930\u0947\u0928\u0947\u0921\u093e"
+    ],
+    "name:grn_x_preferred":[
+        "Gyran\u00e1ta"
+    ],
+    "name:gsw_x_preferred":[
+        "Grenada"
     ],
     "name:guj_x_preferred":[
         "\u0a97\u0acd\u0ab0\u0ac7\u0aa8\u0ac7\u0aa1\u0abe"
@@ -369,6 +381,9 @@
     "name:lav_x_variant":[
         "Grenada"
     ],
+    "name:lfn_x_preferred":[
+        "Grenada"
+    ],
     "name:lij_x_preferred":[
         "Grenada"
     ],
@@ -396,6 +411,9 @@
     "name:lug_x_preferred":[
         "Gurenada"
     ],
+    "name:lzh_x_preferred":[
+        "\u683c\u745e\u90a3\u9054"
+    ],
     "name:mal_x_preferred":[
         "\u0d17\u0d4d\u0d30\u0d28\u0d47\u0d21"
     ],
@@ -407,6 +425,9 @@
     ],
     "name:mhr_x_preferred":[
         "\u0413\u0440\u0435\u043d\u0430\u0434\u0435"
+    ],
+    "name:mhr_x_variant":[
+        "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"
     ],
     "name:mkd_x_preferred":[
         "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"
@@ -426,8 +447,17 @@
     "name:mya_x_preferred":[
         "\u1002\u101b\u102e\u1014\u1031\u1012\u102b\u1014\u102d\u102f\u1004\u103a\u1004\u1036"
     ],
+    "name:myv_x_preferred":[
+        "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"
+    ],
+    "name:mzn_x_preferred":[
+        "\u06af\u0631\u0627\u0646\u0627\u062f\u0627"
+    ],
     "name:nah_x_preferred":[
         "Granada"
+    ],
+    "name:nan_x_preferred":[
+        "Grenada"
     ],
     "name:nau_x_preferred":[
         "Grenada"
@@ -465,11 +495,15 @@
     "name:oci_x_preferred":[
         "Grenada"
     ],
+    "name:olo_x_preferred":[
+        "Grenada"
+    ],
     "name:ori_x_preferred":[
         "\u0b17\u0b4d\u0b30\u0b47\u0b28\u0b47\u0b21\u0b3c\u0b3e"
     ],
     "name:ori_x_variant":[
-        "\u0b17\u0b4d\u0b30\u0b47\u0b28\u0b3e\u0b21\u0b3e"
+        "\u0b17\u0b4d\u0b30\u0b47\u0b28\u0b3e\u0b21\u0b3e",
+        "\u0b17\u0b4d\u0b30\u0b47\u0b28\u0b47\u0b21\u0b3e"
     ],
     "name:orm_x_preferred":[
         "Giranaadaa"
@@ -484,6 +518,9 @@
         "\u0a17\u0a4d\u0a30\u0a47\u0a28\u0a3e\u0a21\u0a3e"
     ],
     "name:pap_x_preferred":[
+        "Grenada"
+    ],
+    "name:pih_x_preferred":[
         "Grenada"
     ],
     "name:pli_x_preferred":[
@@ -505,6 +542,9 @@
     "name:pus_x_preferred":[
         "\u06af\u0631\u06d0\u0646\u0627\u062f\u0627"
     ],
+    "name:pus_x_variant":[
+        "\u06ab\u0631\u06d0\u0646\u0627\u062f\u0627"
+    ],
     "name:que_x_preferred":[
         "Grinada"
     ],
@@ -516,6 +556,9 @@
     ],
     "name:run_x_preferred":[
         "Gerenada"
+    ],
+    "name:rup_x_preferred":[
+        "Grenada"
     ],
     "name:rus_x_preferred":[
         "\u0413\u0440\u0435\u043d\u0430\u0434\u0430"
@@ -535,8 +578,14 @@
     "name:sco_x_preferred":[
         "Grenada"
     ],
+    "name:sgs_x_preferred":[
+        "Grenada"
+    ],
     "name:sin_x_preferred":[
         "\u0d9c\u0dca\u200d\u0dbb\u0dd0\u0db1\u0da9\u0dcf\u0dc0"
+    ],
+    "name:sin_x_variant":[
+        "\u0d9c\u0dca\u200d\u0dbb\u0dd9\u0db1\u0dcf\u0da9\u0dcf"
     ],
     "name:slk_x_preferred":[
         "Grenada"
@@ -552,6 +601,9 @@
     ],
     "name:som_x_preferred":[
         "Giriinaada"
+    ],
+    "name:som_x_variant":[
+        "Grenada"
     ],
     "name:spa_x_preferred":[
         "Granada",
@@ -593,6 +645,9 @@
     "name:tel_x_preferred":[
         "\u0c17\u0c4d\u0c30\u0c46\u0c28\u0c46\u0c21\u0c3e"
     ],
+    "name:tel_x_variant":[
+        "\u0c17\u0c4d\u0c30\u0c46\u0c28\u0c21\u0c3e"
+    ],
     "name:tet_x_preferred":[
         "Granada"
     ],
@@ -613,6 +668,9 @@
     ],
     "name:ton_x_preferred":[
         "Kelenat\u0101"
+    ],
+    "name:tuk_x_preferred":[
+        "Grenada"
     ],
     "name:tur_x_preferred":[
         "Grenada"
@@ -641,6 +699,9 @@
     "name:uzb_x_preferred":[
         "Grenada"
     ],
+    "name:vec_x_preferred":[
+        "Granada"
+    ],
     "name:vep_x_preferred":[
         "Grenad"
     ],
@@ -653,17 +714,26 @@
     "name:vol_x_preferred":[
         "Grenade\u00e4n"
     ],
+    "name:vro_x_preferred":[
+        "Grenada"
+    ],
     "name:war_x_preferred":[
         "Grenada"
     ],
     "name:wol_x_preferred":[
         "Grenada"
     ],
+    "name:wuu_x_preferred":[
+        "\u683c\u6797\u7eb3\u8fbe"
+    ],
     "name:xal_x_preferred":[
         "\u0413\u0440\u0435\u043d\u0430\u0434\u0438\u043d \u041e\u0440\u043d"
     ],
     "name:xmf_x_preferred":[
         "\u10d2\u10e0\u10d4\u10dc\u10d0\u10d3\u10d0"
+    ],
+    "name:yid_x_preferred":[
+        "\u05d2\u05e8\u05e2\u05e0\u05d0\u05d3\u05e2"
     ],
     "name:yor_x_preferred":[
         "Gr\u1eb9\u0300n\u00e1d\u00e0"
@@ -687,7 +757,6 @@
         "\u683c\u6797\u7eb3\u8fbe"
     ],
     "name:zho_x_variant":[
-        "\u683c\u6797\u7eb3\u8fbe",
         "\u683c\u745e\u90a3\u9054"
     ],
     "name:zho_yue_x_preferred":[
@@ -842,7 +911,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1544059204,
+    "wof:lastmodified":1563346739,
     "wof:name":"Grenada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
