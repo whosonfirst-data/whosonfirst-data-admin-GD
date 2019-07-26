@@ -25,6 +25,12 @@
     "iso:country":"GD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03b5\u03bc\u03c0\u03bb\u03ac\u03bd\u03c4\u03bf"
+    ],
+    "name:fas_x_preferred":[
+        "\u062f\u0628\u0644\u0627\u0646\u062f\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1343275709,
-    "wof:lastmodified":1537562987,
+    "wof:lastmodified":1564168928,
     "wof:name":"Deblando",
     "wof:parent_id":85671609,
     "wof:placetype":"locality",

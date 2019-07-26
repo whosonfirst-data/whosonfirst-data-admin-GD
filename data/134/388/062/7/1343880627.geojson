@@ -25,6 +25,12 @@
     "iso:country":"GD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Mount Alexander"
+    ],
+    "name:deu_x_preferred":[
+        "Mount Alexander"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +52,7 @@
         }
     ],
     "wof:id":1343880627,
-    "wof:lastmodified":1536636358,
+    "wof:lastmodified":1564168928,
     "wof:name":"Mount Alexander",
     "wof:parent_id":85671631,
     "wof:placetype":"locality",
