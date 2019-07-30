@@ -25,6 +25,12 @@
     "iso:country":"GD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ell_x_preferred":[
+        "\u039c\u03bf\u03c1\u03bd \u0396\u03b1\u03bb\u03bf\u03cd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0645\u0648\u0631\u0646 \u062c\u0627\u0644\u0648"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +53,7 @@
         }
     ],
     "wof:id":1360092567,
-    "wof:lastmodified":1537562986,
+    "wof:lastmodified":1564168972,
     "wof:name":"Morne Jaloux",
     "wof:parent_id":85671617,
     "wof:placetype":"locality",

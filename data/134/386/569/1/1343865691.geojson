@@ -25,6 +25,24 @@
     "iso:country":"GD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ces_x_preferred":[
+        "Padok"
+    ],
+    "name:deu_x_preferred":[
+        "Paddock"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30d1\u30c9\u30c3\u30af"
+    ],
+    "name:pol_x_preferred":[
+        "Padok"
+    ],
+    "name:por_x_preferred":[
+        "Padoque"
+    ],
+    "name:swe_x_preferred":[
+        "Paddock"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1343865691,
-    "wof:lastmodified":1536659105,
+    "wof:lastmodified":1564168928,
     "wof:name":"Paddock",
     "wof:parent_id":85671617,
     "wof:placetype":"locality",

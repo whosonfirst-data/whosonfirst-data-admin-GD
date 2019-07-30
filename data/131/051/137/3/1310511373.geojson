@@ -25,6 +25,27 @@
     "iso:country":"GD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Tivoli"
+    ],
+    "name:ell_x_preferred":[
+        "\u03a4\u03b9\u03b2\u03bf\u03bb\u03af"
+    ],
+    "name:fas_x_preferred":[
+        "\u062a\u06cc\u0648\u0648\u0644\u06cc"
+    ],
+    "name:fra_x_preferred":[
+        "Tivoli"
+    ],
+    "name:ita_x_preferred":[
+        "Tivoli"
+    ],
+    "name:pol_x_preferred":[
+        "Tivoli"
+    ],
+    "name:zho_x_preferred":[
+        "\u8482\u6c83\u5229"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +68,7 @@
         }
     ],
     "wof:id":1310511373,
-    "wof:lastmodified":1537562986,
+    "wof:lastmodified":1564168971,
     "wof:name":"Tivoli",
     "wof:parent_id":85671609,
     "wof:placetype":"locality",

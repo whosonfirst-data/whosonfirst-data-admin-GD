@@ -28,6 +28,15 @@
     "name:deu_x_preferred":[
         "L'Anse Aux Epines"
     ],
+    "name:ell_x_preferred":[
+        "\u039b'\u0391\u03bd\u03c2 \u03c9\u03b6 \u0395\u03c0\u03af\u03bd"
+    ],
+    "name:fas_x_preferred":[
+        "\u0644\u0627\u0646\u0633\u0648 \u0627\u067e\u06cc\u0646\u0632"
+    ],
+    "name:urd_x_preferred":[
+        "\u0644\u0627\u0646\u0633\u06cc \u0622 \u0627\u06cc\u067e\u0646\u0632"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[],
     "wof:breaches":[],
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1226647981,
-    "wof:lastmodified":1537623018,
+    "wof:lastmodified":1564168999,
     "wof:name":"Lance aux Epines",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

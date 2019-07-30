@@ -25,6 +25,30 @@
     "iso:country":"GD",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Duquesne"
+    ],
+    "name:deu_x_preferred":[
+        "Duquesne"
+    ],
+    "name:fra_x_preferred":[
+        "Duquesne"
+    ],
+    "name:ita_x_preferred":[
+        "Duquesne"
+    ],
+    "name:nld_x_preferred":[
+        "Duquesne"
+    ],
+    "name:pol_x_preferred":[
+        "Duquesne"
+    ],
+    "name:srp_x_preferred":[
+        "\u0414\u0443\u043a\u0435\u0458\u043d"
+    ],
+    "name:vol_x_preferred":[
+        "Duquesne"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +70,7 @@
         }
     ],
     "wof:id":1293485125,
-    "wof:lastmodified":1536790886,
+    "wof:lastmodified":1564168931,
     "wof:name":"Duquesne",
     "wof:parent_id":85671627,
     "wof:placetype":"locality",
