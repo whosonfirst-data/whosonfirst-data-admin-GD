@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "AN"
+    ],
     "lbl:latitude":12.128707,
     "lbl:longitude":-61.643182,
     "mps:latitude":12.128707,
@@ -269,16 +272,13 @@
         }
     ],
     "wof:id":85671609,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563346742,
+    "wof:lastmodified":1565712377,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

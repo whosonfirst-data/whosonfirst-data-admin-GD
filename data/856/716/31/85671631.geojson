@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PA"
+    ],
     "lbl:latitude":12.21039,
     "lbl:longitude":-61.637424,
     "mps:latitude":12.21039,
@@ -261,16 +264,13 @@
         }
     ],
     "wof:id":85671631,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563346743,
+    "wof:lastmodified":1565712377,
     "wof:name":"Saint Patrick",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

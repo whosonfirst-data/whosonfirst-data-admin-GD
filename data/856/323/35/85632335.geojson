@@ -16,6 +16,9 @@
         "1-473"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "GD"
+    ],
     "lbl:latitude":12.11396,
     "lbl:longitude":-61.688501,
     "mps:latitude":12.11396,
@@ -902,16 +905,13 @@
         }
     ],
     "wof:id":85632335,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563346739,
+    "wof:lastmodified":1565712377,
     "wof:name":"Grenada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

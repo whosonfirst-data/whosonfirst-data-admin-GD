@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "GE"
+    ],
     "lbl:latitude":12.058451,
     "lbl:longitude":-61.723329,
     "mps:latitude":12.058451,
@@ -269,16 +272,13 @@
         }
     ],
     "wof:id":85671617,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563346741,
+    "wof:lastmodified":1565712377,
     "wof:name":"Saint George",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

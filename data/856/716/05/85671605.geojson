@@ -16,6 +16,9 @@
     "label:eng_x_preferred_placetype":[
         "dependency"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "CA"
+    ],
     "lbl:latitude":12.477906,
     "lbl:longitude":-61.445014,
     "mps:latitude":12.477906,
@@ -284,7 +287,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563346740,
+    "wof:lastmodified":1565712377,
     "wof:name":"Carriacou and Petite Martinique",
     "wof:parent_id":85632335,
     "wof:placetype":"region",
