@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grenada",
     "iso:country":"GD",
+    "lbl:bbox":"-61.68667,12.08,-61.64667,12.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Adelphi"
     ],
@@ -63,8 +67,7 @@
         "\u0410\u0434\u0435\u043b\u0444\u0456"
     ],
     "name:und_x_variant":[
-        "Adelphia",
-        "Adelphi"
+        "Adelphia"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -83,7 +86,7 @@
         }
     ],
     "wof:id":1209529777,
-    "wof:lastmodified":1564168951,
+    "wof:lastmodified":1566636685,
     "wof:name":"Adelphi",
     "wof:parent_id":85632335,
     "wof:placetype":"locality",

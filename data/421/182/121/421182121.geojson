@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.679477,12.12711,-61.679477,12.12711",
     "geom:latitude":12.12711,
     "geom:longitude":-61.679477,
     "iso:country":"GD",
+    "lbl:bbox":"-61.699477,12.10711,-61.659477,12.14711",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:spa_x_preferred":[
         "Pointe-\u00e0-Pierre"
@@ -41,11 +47,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":80410,
-        "qs:id":889702
+        "qs_pg:id":889702
     },
     "wof:country":"GD",
     "wof:created":1459009319,
-    "wof:geomhash":"6fdef5951146afef4a6361e210469b2c",
+    "wof:geomhash":"3e0ad0546348a7f404aad9e8682fa287",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +61,7 @@
         }
     ],
     "wof:id":421182121,
-    "wof:lastmodified":1467244396,
+    "wof:lastmodified":1566636697,
     "wof:name":"Plaisance Land Settlement",
     "wof:parent_id":85671609,
     "wof:placetype":"locality",

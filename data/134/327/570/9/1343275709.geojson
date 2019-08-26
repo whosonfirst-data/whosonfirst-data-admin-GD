@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grenada",
     "iso:country":"GD",
+    "lbl:bbox":"-61.65333,12.08,-61.61333,12.12",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039d\u03c4\u03b5\u03bc\u03c0\u03bb\u03ac\u03bd\u03c4\u03bf"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1343275709,
-    "wof:lastmodified":1564168928,
+    "wof:lastmodified":1566636673,
     "wof:name":"Deblando",
     "wof:parent_id":85671609,
     "wof:placetype":"locality",

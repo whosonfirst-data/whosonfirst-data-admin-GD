@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grenada",
     "iso:country":"GD",
+    "lbl:bbox":"-61.70333,12.09667,-61.66333,12.13667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u039c\u03bf\u03c1\u03bd \u039b\u03bf\u03bd\u03b3\u03ba"
     ],
@@ -53,7 +57,7 @@
         }
     ],
     "wof:id":1226761895,
-    "wof:lastmodified":1564168999,
+    "wof:lastmodified":1566636708,
     "wof:name":"Morne Longue",
     "wof:parent_id":85671609,
     "wof:placetype":"locality",

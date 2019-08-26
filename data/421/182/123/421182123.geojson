@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-61.727027,12.014838,-61.727027,12.014838",
     "geom:latitude":12.014838,
     "geom:longitude":-61.727027,
     "iso:country":"GD",
+    "lbl:bbox":"-61.747027,11.994838,-61.707027,12.034838",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":null,
     "qs:gn_fcode":null,
@@ -38,11 +44,11 @@
     "wof:breaches":[],
     "wof:concordances":{
         "gp:id":80475,
-        "qs:id":889703
+        "qs_pg:id":889703
     },
     "wof:country":"GD",
     "wof:created":1459009319,
-    "wof:geomhash":"65ae62fbdf3490118b8b547b15a31649",
+    "wof:geomhash":"d42d083219087ca130830ac7bf5a3bb8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":421182123,
-    "wof:lastmodified":1466635854,
+    "wof:lastmodified":1566636698,
     "wof:name":"Westerhall Land Settlement",
     "wof:parent_id":85671617,
     "wof:placetype":"locality",

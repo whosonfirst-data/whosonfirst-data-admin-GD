@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grenada",
     "iso:country":"GD",
+    "lbl:bbox":"-61.67,12.03,-61.63,12.07",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0386\u03bd\u03c9 \u039b\u03b1 \u03a4\u03b1\u03bd\u03c4"
     ],
@@ -56,7 +60,7 @@
         }
     ],
     "wof:id":1259385999,
-    "wof:lastmodified":1564168987,
+    "wof:lastmodified":1566636703,
     "wof:name":"Upper La Tante",
     "wof:parent_id":85671613,
     "wof:placetype":"locality",

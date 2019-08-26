@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":12.11396,
     "lbl:longitude":-61.688501,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":12.11396,
     "mps:longitude":-61.688501,
     "mz:hierarchy_label":1,
@@ -690,7 +692,7 @@
     "name:ukr_x_variant":[
         "\u0490\u0440\u0435\u043d\u0430\u0434\u0430"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Colony of Grenada"
     ],
     "name:urd_x_preferred":[
@@ -844,7 +846,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"1-473",
     "statoids:ds":"WG",
@@ -889,7 +891,7 @@
         "mzb:id":"grenada",
         "ne:adm0_a3":"GRD",
         "nyt:id":"66238405490205020321",
-        "qs:id":1289457,
+        "qs_pg:id":1289457,
         "uncrt:id":"WG",
         "wd:id":"Q769",
         "wk:page":"Grenada",
@@ -911,7 +913,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565712377,
+    "wof:lastmodified":1566636673,
     "wof:name":"Grenada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
