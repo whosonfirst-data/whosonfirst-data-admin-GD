@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grenada",
     "iso:country":"GD",
+    "lbl:bbox":"-61.63667,12.13,-61.59667,12.17",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ell_x_preferred":[
         "\u0386\u03bd\u03c9 \u039a\u03cc\u03bd\u03c6\u03b5\u03c1\u03b5\u03bd\u03c2"
     ],
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":1209429329,
-    "wof:lastmodified":1564168956,
+    "wof:lastmodified":1566636687,
     "wof:name":"Conference",
     "wof:parent_id":85632335,
     "wof:placetype":"locality",

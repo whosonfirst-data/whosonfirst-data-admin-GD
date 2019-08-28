@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grenada",
     "iso:country":"GD",
+    "lbl:bbox":"-61.68667,12.18,-61.64667,12.22",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Duquesne"
     ],
@@ -70,7 +74,7 @@
         }
     ],
     "wof:id":1293485125,
-    "wof:lastmodified":1564168931,
+    "wof:lastmodified":1566636676,
     "wof:name":"Duquesne",
     "wof:parent_id":85671627,
     "wof:placetype":"locality",

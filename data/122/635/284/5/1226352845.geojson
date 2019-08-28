@@ -22,8 +22,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grenada",
     "iso:country":"GD",
+    "lbl:bbox":"-61.80196,11.99239,-61.76196,12.03239",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1226352845,
-    "wof:lastmodified":1536779654,
+    "wof:lastmodified":1566636707,
     "wof:name":"Magazine Beach",
     "wof:parent_id":85671617,
     "wof:placetype":"locality",

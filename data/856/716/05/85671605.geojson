@@ -21,6 +21,7 @@
     ],
     "lbl:latitude":12.477906,
     "lbl:longitude":-61.445014,
+    "lbl:min_zoom":8.0,
     "mps:latitude":12.477906,
     "mps:longitude":-61.445014,
     "mz:hierarchy_label":1,
@@ -142,7 +143,7 @@
         "Saint Patrick"
     ],
     "name:tam_x_preferred":[
-        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0baa\u0bc7\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd  \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0baa\u0bc7\u0b9f\u0bcd\u0bb0\u0bbf\u0b95\u0bcd \u0baa\u0bb0\u0bbf\u0bb7\u0bcd"
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c02\u0c1f\u0c4d \u0c2a\u0c3e\u0c1f\u0c4d\u0c30\u0c3f\u0c15\u0c4d \u0c2a\u0c3e\u0c30\u0c3f\u0c37\u0c4d"
@@ -242,9 +243,9 @@
     "qs:woeid":2345478,
     "src:geom":"quattroshapes",
     "src:geom_alt":[],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"statoids",
-    "src:population:date":"2001-05-05",
+    "src:population_date":"2001-05-05",
     "statoids:area_km":"34",
     "statoids:area_mi":"13",
     "statoids:as_of_date":"2001-05-05",
@@ -287,11 +288,10 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565712377,
+    "wof:lastmodified":1566636674,
     "wof:name":"Carriacou and Petite Martinique",
     "wof:parent_id":85632335,
     "wof:placetype":"region",
-    "wof:placetype_alt":[],
     "wof:placetype_local":"dependency",
     "wof:population":6063,
     "wof:population_rank":5,

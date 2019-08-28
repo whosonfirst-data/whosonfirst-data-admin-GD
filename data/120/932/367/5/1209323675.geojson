@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Grenada",
     "iso:country":"GD",
+    "lbl:bbox":"-61.72,12.01333,-61.68,12.05333",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632335
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209323675,
-    "wof:lastmodified":1536290604,
+    "wof:lastmodified":1566636686,
     "wof:name":"Charlotte Vale",
     "wof:parent_id":85632335,
     "wof:placetype":"locality",
