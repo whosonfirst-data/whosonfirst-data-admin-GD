@@ -453,6 +453,9 @@
     },
     "wof:country":"GD",
     "wof:created":1469052791,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"457986e3d1b4fc93fe89c9e4e02d1be2",
     "wof:hierarchy":[
         {
@@ -461,7 +464,7 @@
         }
     ],
     "wof:id":890451719,
-    "wof:lastmodified":1566636698,
+    "wof:lastmodified":1582343573,
     "wof:name":"Saint George's",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
