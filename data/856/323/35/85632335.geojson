@@ -899,6 +899,10 @@
     },
     "wof:country":"GD",
     "wof:country_alpha3":"GRD",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"5c1a4a4402df2bc35da06c2ab16c48bd",
     "wof:hierarchy":[
         {
@@ -913,7 +917,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566636673,
+    "wof:lastmodified":1582343573,
     "wof:name":"Grenada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
