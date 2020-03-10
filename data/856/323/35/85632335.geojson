@@ -875,9 +875,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Grenada",
-        "digitalenvoy:country_code":[
-            308
-        ],
+        "digitalenvoy:country_code":308,
         "fb:id":"en.grenada",
         "fifa:id":"GRN",
         "fips:code":"GJ",
@@ -920,7 +918,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529139,
+    "wof:lastmodified":1583797344,
     "wof:name":"Grenada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
