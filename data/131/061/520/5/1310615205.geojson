@@ -99,13 +99,25 @@
         "Saint John"
     ],
     "name:ukr_x_preferred":[
+        "\u0421\u0430\u043d-\u0414\u0436\u043e\u043d"
+    ],
+    "name:ukr_x_variant":[
         "\u0421\u0435\u043d\u0442-\u0414\u0436\u043e\u043d"
     ],
     "name:urd_x_preferred":[
         "\u0633\u06cc\u0646\u0679 \u062c\u0627\u0646"
     ],
+    "name:vie_x_preferred":[
+        "Saint John"
+    ],
     "name:vol_x_preferred":[
         "Saint John"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u7ea6\u7ff0\u6cb3"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u7d04\u7ff0\u6cb3"
     ],
     "name:zho_x_preferred":[
         "\u8056\u7d04\u7ff0"
@@ -121,7 +133,7 @@
         "gn:id":3579918
     },
     "wof:country":"GD",
-    "wof:geomhash":"60576416838643604f7e60d9c188f0be",
+    "wof:geomhash":"df373b93e91d1fbd7ed7e0dcd107cdea",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -131,7 +143,7 @@
         }
     ],
     "wof:id":1310615205,
-    "wof:lastmodified":1566636694,
+    "wof:lastmodified":1636500405,
     "wof:name":"Saint John",
     "wof:parent_id":85671609,
     "wof:placetype":"locality",
@@ -141,10 +153,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -61.63333000000001,
+    -61.63333,
     12.11667,
-    -61.63333000000001,
+    -61.63333,
     12.11667
 ],
-  "geometry": {"coordinates":[-61.63333000000001,12.11667],"type":"Point"}
+  "geometry": {"coordinates":[-61.63333,12.11667],"type":"Point"}
 }

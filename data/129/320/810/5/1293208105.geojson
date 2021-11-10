@@ -35,6 +35,12 @@
     "name:ell_x_preferred":[
         "\u039b\u03b1\u03bc\u03c0\u03bf\u03c1\u03af"
     ],
+    "name:heb_x_preferred":[
+        "\u05dc\u05d0\u05d1\u05d5\u05e8\u05d9"
+    ],
+    "name:hun_x_preferred":[
+        "Laborie"
+    ],
     "name:oci_x_preferred":[
         "La B\u00f2ria"
     ],
@@ -71,7 +77,7 @@
         }
     ],
     "wof:id":1293208105,
-    "wof:lastmodified":1566636678,
+    "wof:lastmodified":1636500404,
     "wof:name":"Laborie",
     "wof:parent_id":85671617,
     "wof:placetype":"locality",

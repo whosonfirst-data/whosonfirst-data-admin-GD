@@ -750,10 +750,11 @@
         "Grenad"
     ],
     "name:vie_x_preferred":[
-        "Grenada"
+        "\u0110\u1ea3o Grenada"
     ],
     "name:vie_x_variant":[
-        "Gr\u00ea-na-\u0111a"
+        "Gr\u00ea-na-\u0111a",
+        "Grenada"
     ],
     "name:vol_x_preferred":[
         "Grenade\u00e4n"
@@ -1037,7 +1038,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827478,
+    "wof:lastmodified":1636500402,
     "wof:name":"Grenada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
