@@ -19,6 +19,9 @@
     "mz:hierarchy_label":1,
     "mz:is_current":1,
     "mz:min_zoom":11.0,
+    "name:ast_x_preferred":[
+        "Grenville"
+    ],
     "name:ceb_x_preferred":[
         "Grenville"
     ],
@@ -42,6 +45,9 @@
     ],
     "name:heb_x_preferred":[
         "\u05d2\u05e8\u05e0\u05d5\u05d5\u05d9\u05dc"
+    ],
+    "name:ind_x_preferred":[
+        "Grenville"
     ],
     "name:ita_x_preferred":[
         "Grenville"
@@ -113,7 +119,7 @@
         }
     ],
     "wof:id":890441889,
-    "wof:lastmodified":1566636698,
+    "wof:lastmodified":1690921367,
     "wof:name":"Grenville",
     "wof:parent_id":85671609,
     "wof:placetype":"locality",

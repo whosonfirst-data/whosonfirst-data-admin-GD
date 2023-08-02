@@ -22,6 +22,9 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:ast_x_preferred":[
+        "Sauteurs"
+    ],
     "name:bul_x_preferred":[
         "\u0421\u0430\u0443\u0442\u0435\u0443\u0440\u0441"
     ],
@@ -66,6 +69,9 @@
     ],
     "name:pol_x_preferred":[
         "Sauteurs"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0430\u0443\u0442\u0435\u0440\u0437"
     ],
     "name:spa_x_preferred":[
         "Sauteurs"
@@ -119,7 +125,7 @@
         }
     ],
     "wof:id":1125963299,
-    "wof:lastmodified":1566636699,
+    "wof:lastmodified":1690921369,
     "wof:name":"Sauteurs",
     "wof:parent_id":85671631,
     "wof:placetype":"locality",

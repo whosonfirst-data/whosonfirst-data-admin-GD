@@ -43,6 +43,9 @@
     "name:hye_x_preferred":[
         "\u054e\u056b\u056f\u057f\u0578\u0580\u056b\u0561"
     ],
+    "name:ita_x_preferred":[
+        "Victoria"
+    ],
     "name:jpn_x_preferred":[
         "\u30d3\u30af\u30c8\u30ea\u30a2"
     ],
@@ -54,6 +57,9 @@
     ],
     "name:pol_x_preferred":[
         "Victoria"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u043a\u0442\u043e\u0440\u0438\u044f"
     ],
     "name:swe_x_preferred":[
         "Victoria"
@@ -117,7 +123,7 @@
         }
     ],
     "wof:id":1125963281,
-    "wof:lastmodified":1636500405,
+    "wof:lastmodified":1690921369,
     "wof:name":"Victoria",
     "wof:parent_id":85671627,
     "wof:placetype":"locality",
