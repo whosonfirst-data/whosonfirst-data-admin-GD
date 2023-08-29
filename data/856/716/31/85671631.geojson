@@ -64,11 +64,17 @@
     "name:eus_x_preferred":[
         "Saint Patrick"
     ],
+    "name:fas_x_preferred":[
+        "\u067e\u0631\u06cc\u0634 \u0633\u0646\u062a \u067e\u0627\u062a\u0631\u06cc\u06a9"
+    ],
     "name:fin_x_preferred":[
         "Saint Patrick"
     ],
     "name:fra_x_preferred":[
         "Paroisse de Saint Patrick"
+    ],
+    "name:frr_x_preferred":[
+        "Saint Patrick"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aaa\u0ac7\u0a9f\u0acd\u0ab0\u0abf\u0a95 \u0aaa\u0ac5\u0ab0\u0abf\u0ab6"
@@ -91,11 +97,17 @@
     "name:jpn_x_preferred":[
         "\u30bb\u30f3\u30c8\u30fb\u30d1\u30c8\u30ea\u30c3\u30af\u90e1"
     ],
+    "name:jpn_x_variant":[
+        "\u30bb\u30f3\u30c8\u30fb\u30d1\u30c8\u30ea\u30c3\u30af\u6559\u533a"
+    ],
     "name:kan_x_preferred":[
         "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0c9f\u0ccd\u0cb0\u0cbf\u0c95\u0ccd \u0caa\u0ccd\u0caf\u0cbe\u0cb0\u0cbf\u0cb7\u0ccd"
     ],
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ud328\ud2b8\ub9ad \uad50\uad6c"
+    ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud328\ud2b8\ub9ad\uad6c"
     ],
     "name:lav_x_preferred":[
         "Sentpatrika pagasts"
@@ -277,7 +289,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636500403,
+    "wof:lastmodified":1690921365,
     "wof:name":"Saint Patrick",
     "wof:parent_id":85632335,
     "wof:placetype":"region",
