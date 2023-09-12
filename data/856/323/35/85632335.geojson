@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.030817,
-    "geom:area_square_m":372520246.528007,
+    "geom:area_square_m":372520246.528163,
     "geom:bbox":"-61.805889,11.983,-61.378834,12.537861",
     "geom:latitude":12.155005,
     "geom:longitude":-61.659759,
@@ -16,6 +16,9 @@
         "1-473"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "GD"
     ],
@@ -1021,7 +1024,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_year":"2019",
     "statoids:dial":"1-473",
     "statoids:ds":"WG",
     "statoids:fifa":"GRN",
@@ -1079,7 +1083,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"febdbbe3073f10ec86f15a7890cca913",
+    "wof:geomhash":"fe08def1eb86afb3c398965a830efd4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1093,12 +1097,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921363,
+    "wof:lastmodified":1694492215,
     "wof:name":"Grenada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":105897,
-    "wof:population_rank":9,
+    "wof:population":112003,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-gd",
     "wof:shortcode":"GD",
     "wof:superseded_by":[],
