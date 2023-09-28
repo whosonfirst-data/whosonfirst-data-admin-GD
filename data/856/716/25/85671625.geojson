@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004027,
-    "geom:area_square_m":48679791.034515,
+    "geom:area_square_m":48679960.066279,
     "geom:bbox":"-61.751047,12.110073,-61.66253,12.183947",
     "geom:latitude":12.143566,
     "geom:longitude":-61.706204,
@@ -278,14 +278,16 @@
         "gn:id":3579919,
         "gp:id":2345476,
         "hasc:id":"GD.JO",
+        "iso:code":"GD-04",
         "iso:id":"GD-04",
         "qs_pg:id":1083828,
         "unlc:id":"GD-04",
         "wd:id":"Q1476289",
         "wk:page":"Saint John Parish, Grenada"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GD",
-    "wof:geomhash":"3ce10e0131b0b6e05ee20defef7c9d30",
+    "wof:geomhash":"4ede0c6ca0f18a8e53f858299e88ca12",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921366,
+    "wof:lastmodified":1695884865,
     "wof:name":"Saint John",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

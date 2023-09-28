@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.006266,
-    "geom:area_square_m":75750072.192904,
+    "geom:area_square_m":75749952.120553,
     "geom:bbox":"-61.688028,12.069037,-61.603222,12.179165",
     "geom:latitude":12.128582,
     "geom:longitude":-61.642375,
@@ -281,14 +281,16 @@
         "gn:id":3579938,
         "gp:id":2345473,
         "hasc:id":"GD.AN",
+        "iso:code":"GD-01",
         "iso:id":"GD-01",
         "qs_pg:id":1142819,
         "unlc:id":"GD-01",
         "wd:id":"Q977183",
         "wk:page":"Saint Andrew Parish, Grenada"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GD",
-    "wof:geomhash":"7501c038a02b19725a8554a896c3d0fa",
+    "wof:geomhash":"d3b85857b99c0aea32c2bc1feada13cc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -303,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921365,
+    "wof:lastmodified":1695884865,
     "wof:name":"Saint Andrew",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

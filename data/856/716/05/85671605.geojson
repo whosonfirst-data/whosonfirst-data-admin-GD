@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002944,
-    "geom:area_square_m":35541431.350298,
+    "geom:area_square_m":35541787.986391,
     "geom:bbox":"-61.496246,12.440375,-61.38386,12.529731",
     "geom:latitude":12.481299,
     "geom:longitude":-61.449603,
@@ -284,11 +284,13 @@
         "gn:id":7303836,
         "gp:id":-2345478,
         "hasc:id":"GD.CA",
+        "iso:code":"GD-10",
         "iso:id":"GD-10",
         "wd:id":"Q1476309"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GD",
-    "wof:geomhash":"7f738ce6c948e5dc41fd3e60b32a641e",
+    "wof:geomhash":"9953e922a5ae8d6a4b744edea34eeb00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -303,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921363,
+    "wof:lastmodified":1695884865,
     "wof:name":"Carriacou and Petite Martinique",
     "wof:parent_id":85632335,
     "wof:placetype":"region",
