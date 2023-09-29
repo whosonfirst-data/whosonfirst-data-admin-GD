@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.001954,
-    "geom:area_square_m":23612135.278393,
+    "geom:area_square_m":23612247.916995,
     "geom:bbox":"-61.715148,12.158602,-61.65595,12.223333",
     "geom:latitude":12.191306,
     "geom:longitude":-61.679851,
@@ -269,14 +269,16 @@
         "gn:id":3579913,
         "gp:id":2345477,
         "hasc:id":"GD.MA",
+        "iso:code":"GD-05",
         "iso:id":"GD-05",
         "qs_pg:id":1083834,
         "unlc:id":"GD-05",
         "wd:id":"Q1291077",
         "wk:page":"Saint Mark Parish, Grenada"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GD",
-    "wof:geomhash":"2752ebcab0bc9f766589697c8283611d",
+    "wof:geomhash":"6fba39a2ee122bad9a4aa0cc8a360be8",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -291,7 +293,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921364,
+    "wof:lastmodified":1695884865,
     "wof:name":"Saint Mark",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

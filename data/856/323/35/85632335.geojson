@@ -1063,6 +1063,7 @@
         "hasc:id":"GD",
         "icao:code":"J3",
         "ioc:id":"GRN",
+        "iso:code":"GD",
         "itu:id":"GRD",
         "loc:id":"n80104478",
         "m49:code":"308",
@@ -1077,6 +1078,7 @@
         "wk:page":"Grenada",
         "wmo:id":"GD"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GD",
     "wof:country_alpha3":"GRD",
     "wof:geom_alt":[
@@ -1097,7 +1099,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639668,
+    "wof:lastmodified":1695881328,
     "wof:name":"Grenada",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

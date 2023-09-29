@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003681,
-    "geom:area_square_m":44480254.933605,
+    "geom:area_square_m":44479841.009892,
     "geom:bbox":"-61.682134,12.176691,-61.580474,12.315375",
     "geom:latitude":12.215762,
     "geom:longitude":-61.634546,
@@ -268,13 +268,15 @@
         "gn:id":3579907,
         "gp:id":2345478,
         "hasc:id":"GD.PA",
+        "iso:code":"GD-06",
         "iso:id":"GD-06",
         "qs_pg:id":1083835,
         "wd:id":"Q1476309",
         "wk:page":"Saint Patrick Parish, Grenada"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GD",
-    "wof:geomhash":"8a4e4afa81b249b21eb0271cf817d3a0",
+    "wof:geomhash":"98ceba8804039f89174dabf0db200498",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -289,7 +291,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921365,
+    "wof:lastmodified":1695884865,
     "wof:name":"Saint Patrick",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

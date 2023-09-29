@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003414,
-    "geom:area_square_m":41289335.36046,
+    "geom:area_square_m":41289180.473657,
     "geom:bbox":"-61.696253,12.02204,-61.624501,12.089511",
     "geom:latitude":12.057512,
     "geom:longitude":-61.663179,
@@ -278,14 +278,16 @@
         "gn:id":3579932,
         "gp:id":2345474,
         "hasc:id":"GD.DA",
+        "iso:code":"GD-02",
         "iso:id":"GD-02",
         "qs_pg:id":1117345,
         "unlc:id":"GD-02",
         "wd:id":"Q2087806",
         "wk:page":"Saint David Parish, Grenada"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GD",
-    "wof:geomhash":"da0aaecc0113cf0fa9b39eb7bcea6f11",
+    "wof:geomhash":"7a27c08c7318748b7eec9c923625371a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -300,7 +302,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921365,
+    "wof:lastmodified":1695884865,
     "wof:name":"Saint David",
     "wof:parent_id":85632335,
     "wof:placetype":"region",

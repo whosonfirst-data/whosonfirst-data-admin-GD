@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00693,
-    "geom:area_square_m":83797088.296469,
+    "geom:area_square_m":83797065.26758,
     "geom:bbox":"-61.790517,12.002834,-61.676513,12.110896",
     "geom:latitude":12.056883,
     "geom:longitude":-61.724192,
@@ -290,14 +290,16 @@
         "gn:id":3579926,
         "gp:id":2345475,
         "hasc:id":"GD.GE",
+        "iso:code":"GD-03",
         "iso:id":"GD-03",
         "qs_pg:id":894888,
         "unlc:id":"GD-03",
         "wd:id":"Q576651",
         "wk:page":"Saint George Parish, Grenada"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"GD",
-    "wof:geomhash":"61a117acc4c27c218b72c683ecebe31f",
+    "wof:geomhash":"c950cb34e66c28f6ad5752ee593a46fd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -312,7 +314,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690921364,
+    "wof:lastmodified":1695884865,
     "wof:name":"Saint George",
     "wof:parent_id":85632335,
     "wof:placetype":"region",
